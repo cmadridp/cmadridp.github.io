@@ -9,7 +9,7 @@ My  research interests include:
 - Causal inference
 - Bayes methodology
 
-A copy of my CV  can be found [here](https://github.com/cmadridp/cmadridp.github.io/blob/main/cv_carlos_madrid.pdf).
+A copy of my CV  can be found [here](https://github.com/cmadridp/cmadridp.github.io/edit/main/cv_carlos_madrid.pdf).
 
 I was  born  and raised in Honduras.
 
