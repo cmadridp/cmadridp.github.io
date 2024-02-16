@@ -5,6 +5,11 @@ My advisors are [Dr. Daren Wang](https://darenwang.github.io/website/) and [Dr. 
 
 My undergraduate degree was a B.S. in Mathematics completed at [CIMAT](https://www.cimat.mx/en) (in Mexico) in May 2019, advised by [Dr. Víctor M. Pérez Abreu C.](https://www.cimat.mx/~pabreu/) and [Dr. Mario Diaz](https://www.mariodiaztorres.com/). 
 
+## News
+Beginning July 1, 2024, I will be an Assistant Professor (Tenure-track) in the [Department of Statistics and Data Science at Washington University in St. Louis](https://sds.wustl.edu/).
+
+
+## Research
 
 My  research interests include:
 - High-dimensional statistics
