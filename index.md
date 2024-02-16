@@ -6,6 +6,10 @@ My advisors are [Dr. Daren Wang](https://darenwang.github.io/website/) and [Dr. 
 
 My undergraduate degree was a B.S. in Mathematics completed at [CIMAT](https://www.cimat.mx/en) (in Mexico) in May 2019, advised by [Dr. Víctor M. Pérez Abreu C.](https://www.cimat.mx/~pabreu/) and [Dr. Mario Diaz](https://www.mariodiaztorres.com/). 
 
+A copy of my CV  can be found [here](https://github.com/cmadridp/cmadridp.github.io/blob/main/cv_carlos_madrid.pdf).
+
+I was  born  and raised in Honduras.
+
 ## News
 Beginning July 1, 2024, I will be an Assistant Professor (Tenure-track) in the [Department of Statistics and Data Science at Washington University in St. Louis](https://sds.wustl.edu/).
 
@@ -18,10 +22,6 @@ My  research interests include:
 - Change point detection
 - Causal inference
 - Bayes methodology
-
-A copy of my CV  can be found [here](https://github.com/cmadridp/cmadridp.github.io/blob/main/cv_carlos_madrid.pdf).
-
-I was  born  and raised in Honduras.
 
 ### Published/Accepted papers
 
