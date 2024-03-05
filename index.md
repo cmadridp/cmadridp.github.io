@@ -38,7 +38,7 @@ Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical 
 ### Preprints
 
 **Carlos-Misael Madrid-Padilla**, O.H.  Madrid-Padilla, D. Wang. Temporal-spatial model via Trend Filtering. 
-[PDF](https://aps.arxiv.org/pdf/2308.16172.pdf) **Under review.**
+[PDF](https://aps.arxiv.org/pdf/2308.16172.pdf) **Under Review.**
 
 **Carlos-Misael Madrid-Padilla** and O.H.  Madrid-Padilla. Distributional regression via Neural Networks. **In Progress. 2023+.**
 
