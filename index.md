@@ -9,9 +9,6 @@ A copy of my CV  can be found [here](https://github.com/cmadridp/cmadridp.github
 
 I was  born  and raised in Honduras.
 
-%## News
-%Beginning July 1, 2024, I will be an Assistant Professor (Tenure-track) in the [Department of Statistics and Data Science at %Washington University in St. Louis](https://sds.wustl.edu/).
-
 
 ## Research
 
