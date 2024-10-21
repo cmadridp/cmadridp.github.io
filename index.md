@@ -36,10 +36,10 @@ Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical 
 **Carlos-Misael Madrid-Padilla**, O.H.  Madrid-Padilla, D. Wang. Temporal-spatial model via Trend Filtering. 
 [PDF](https://aps.arxiv.org/pdf/2308.16172.pdf) **Under Review.**
 
-**Carlos-Misael Madrid-Padilla** and O.H.  Madrid-Padilla. Distributional regression via Neural Networks. **In Progress. 2023+.**
+**Carlos-Misael Madrid-Padilla** and O.H.  Madrid-Padilla. Distributional regression via Neural Networks. **In Progress. 2024+.**
 
-**Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla and  Sabyasachi Chatterjee. Distributional regression: Trend Filtering and beyond. **In Progress. 2023+.**
+**Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla and  Sabyasachi Chatterjee. Distributional regression: Trend Filtering and beyond. **In Progress. 2024+.**
 
-Ke Xu, **Carlos-Misael Madrid-Padilla**, Daren Wang and Oscar Hernan Madrid Padilla. Dense neural networks for temporal spatial model on Manifolds. **In Progress. 2023+.**
+Ke Xu, **Carlos-Misael Madrid-Padilla**, Daren Wang and Oscar Hernan Madrid Padilla. Dense neural networks for temporal spatial model on Manifolds. **In Progress. 2024+.**
 
-**Carlos-Misael Madrid-Padilla**, Shitao Fan and Lizhen Lin. Robust and Scalable Variational Bayes. **In Progress. 2023+.**
+**Carlos-Misael Madrid-Padilla**, Shitao Fan and Lizhen Lin. Robust and Scalable Variational Bayes. **In Progress. 2024+.**
