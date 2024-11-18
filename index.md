@@ -43,6 +43,4 @@ Zhi Zhang, **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid-Padilla, Xiaoka
 
 **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla and  Sabyasachi Chatterjee. Distributional regression: Trend Filtering and beyond. **In Progress. 2024+.**
 
-Ke Xu, **Carlos-Misael Madrid-Padilla**, Daren Wang and Oscar Hernan Madrid Padilla. Dense neural networks for temporal spatial model on Manifolds. **In Progress. 2024+.**
-
 **Carlos-Misael Madrid-Padilla**, Shitao Fan and Lizhen Lin. Robust and Scalable Variational Bayes. **In Progress. 2024+.**
