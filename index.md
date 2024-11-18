@@ -33,8 +33,11 @@ Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical 
 
 ### Preprints
 
-**Carlos-Misael Madrid-Padilla**, O.H.  Madrid-Padilla, D. Wang. Temporal-spatial model via Trend Filtering. 
+**Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid-Padilla, Daren Wang. Temporal-spatial model via Trend Filtering. 
 [PDF](https://aps.arxiv.org/pdf/2308.16172.pdf) **Under Review.**
+
+Zhi Zhang, **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid-Padilla, Xiaokai Luo, Daren Wang. Dense ReLU Neural Networks for Temporal-spatial Mode.
+[PDF](https://arxiv.org/pdf/2411.09961) **Under Review.**
 
 **Carlos-Misael Madrid-Padilla** and O.H.  Madrid-Padilla. Distributional regression via Neural Networks. **In Progress. 2024+.**
 
