@@ -25,7 +25,7 @@ My  research interests include:
 nonparametric models under mixing conditions.
 [PDF](https://arxiv.org/pdf/2301.11491.pdf). **To appear in NeurIPS 2023.**
 
-**Carlos-Misael Madrid-Padilla**, Daren Wang, Zifeng Zhao, Yi Yu. Change-point detection for sparse and dense functional data in general dimensions. [PDF](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f0add74c2f1ac58197173a38c01b2210-Abstract-Conference.html). **NeurlPs 2022** 
+**Carlos-Misael Madrid-Padilla**, Daren Wang, Zifeng Zhao, Yi Yu. Change-point detection for sparse and dense functional data in general dimensions. [PDF](https://neurips.cc/virtual/2022/poster/54744). **NeurlPs 2022** 
 
 Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical order). The Neumann and Robin problems for the Korteweg-de Vries equation on the half-line. [PDF](https://pubs.aip.org/aip/jmp/article-abstract/62/11/111503/234125/The-Neumann-and-Robin-problems-for-the-Korteweg-de?redirectedFrom=fulltext)  
 **Journal of Mathematical Physics, 62, 111503**. 2021. (selected as Editors’ Pick)        
@@ -34,7 +34,7 @@ Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical 
 ### Preprints
 
 **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid-Padilla, Daren Wang. Temporal-spatial model via Trend Filtering. 
-[PDF](https://aps.arxiv.org/pdf/2308.16172.pdf) **Under Review.**
+[PDF](https://arxiv.org/pdf/2308.16172) **Under Review.**
 
 Zhi Zhang, **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid-Padilla, Xiaokai Luo, Daren Wang. Dense ReLU Neural Networks for Temporal-spatial Mode.
 [PDF](https://arxiv.org/pdf/2411.09961) **Under Review.**
