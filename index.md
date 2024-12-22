@@ -39,7 +39,7 @@ Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical 
 Zhi Zhang, **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid-Padilla, Xiaokai Luo, Daren Wang. Dense ReLU Neural Networks for Temporal-spatial Mode.
 [PDF](https://arxiv.org/pdf/2411.09961) **Under Review.**
 
-H. Xu, C.M Madrid-Padilla, O.H. Madrid-Padilla, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. [PDF](https://www.researchgate.net/publication/386778035_Multivariate_Poisson_intensity_estimation_via_low-rank_tensor_decomposition?channel=doi&linkId=67596bff138b414414d594db&showFulltext=true)
+H. Xu, **Carlos-Misael Madrid-Padilla**, O.H. Madrid-Padilla, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. [PDF](https://www.researchgate.net/publication/386778035_Multivariate_Poisson_intensity_estimation_via_low-rank_tensor_decomposition?channel=doi&linkId=67596bff138b414414d594db&showFulltext=true)
 
 **Carlos-Misael Madrid-Padilla** and O.H.  Madrid-Padilla. Distributional regression via Neural Networks. **In Progress. 2024+.**
 
