@@ -25,9 +25,11 @@ My  research interests include:
 nonparametric models under mixing conditions.
 [PDF](https://arxiv.org/pdf/2301.11491.pdf). **To appear in NeurIPS 2023.**
 
-**Carlos-Misael Madrid-Padilla**, Daren Wang, Zifeng Zhao, Yi Yu. Change-point detection for sparse and dense functional data in general dimensions. [PDF](https://neurips.cc/virtual/2022/poster/54744). **NeurlPs 2022** 
+**Carlos-Misael Madrid-Padilla**, Daren Wang, Zifeng Zhao, Yi Yu. Change-point detection for sparse and dense functional data in general dimensions. 
+[PDF](https://neurips.cc/virtual/2022/poster/54744). **NeurlPs 2022** 
 
-Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical order). The Neumann and Robin problems for the Korteweg-de Vries equation on the half-line. [PDF](https://pubs.aip.org/aip/jmp/article-abstract/62/11/111503/234125/The-Neumann-and-Robin-problems-for-the-Korteweg-de?redirectedFrom=fulltext)  
+Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical order). The Neumann and Robin problems for the Korteweg-de Vries equation on the half-line. 
+[PDF](https://pubs.aip.org/aip/jmp/article-abstract/62/11/111503/234125/The-Neumann-and-Robin-problems-for-the-Korteweg-de?redirectedFrom=fulltext)  
 **Journal of Mathematical Physics, 62, 111503**. 2021. (selected as Editors’ Pick)        
 
 
@@ -39,10 +41,15 @@ Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical 
 Zhi Zhang, **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid-Padilla, Xiaokai Luo, Daren Wang. Dense ReLU Neural Networks for Temporal-spatial Mode.
 [PDF](https://arxiv.org/pdf/2411.09961) **Under Review.**
 
-H. Xu, **Carlos-Misael Madrid-Padilla**, O.H. Madrid-Padilla, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. [PDF](https://www.researchgate.net/publication/386778035_Multivariate_Poisson_intensity_estimation_via_low-rank_tensor_decomposition?channel=doi&linkId=67596bff138b414414d594db&showFulltext=true)
+H. Xu, **Carlos-Misael Madrid-Padilla**, O.H. Madrid-Padilla, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. 
+[PDF](https://www.researchgate.net/publication/386778035_Multivariate_Poisson_intensity_estimation_via_low-rank_tensor_decomposition?channel=doi&linkId=67596bff138b414414d594db&showFulltext=true)
+
+**Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, Yik Lun Kei, Zhi Zhang, Yanzhen Chen. Confidence Interval Construction and Conditional Variance Estimation with Dense ReLU Networks. [PDF](https://arxiv.org/abs/2412.20355) **Under Review.**
+
+**Carlos-Misael Madrid-Padilla**, Shitao Fan and Lizhen Lin. Robust and Scalable Variational Bayes. **Under review.** 2025. [PDF]()
 
 **Carlos-Misael Madrid-Padilla** and O.H.  Madrid-Padilla. Distributional regression via Neural Networks. **In Progress. 2024+.**
 
 **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla and  Sabyasachi Chatterjee. Distributional regression: Trend Filtering and beyond. **In Progress. 2024+.**
 
-**Carlos-Misael Madrid-Padilla**, Shitao Fan and Lizhen Lin. Robust and Scalable Variational Bayes. **In Progress. 2024+.**
+
