@@ -36,17 +36,18 @@ Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical 
 ### Preprints
 
 **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid-Padilla, Daren Wang. Temporal-spatial model via Trend Filtering. 
-[PDF](https://arxiv.org/pdf/2308.16172) **Under Review.**
+[PDF](https://arxiv.org/pdf/2308.16172) **Under Review.** 2024
 
 Zhi Zhang, **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid-Padilla, Xiaokai Luo, Daren Wang. Dense ReLU Neural Networks for Temporal-spatial Mode.
-[PDF](https://arxiv.org/pdf/2411.09961) **Under Review.**
+[PDF](https://arxiv.org/pdf/2411.09961) **Under Review.** 2025
 
 H. Xu, **Carlos-Misael Madrid-Padilla**, O.H. Madrid-Padilla, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. 
-[PDF](https://www.researchgate.net/publication/386778035_Multivariate_Poisson_intensity_estimation_via_low-rank_tensor_decomposition?channel=doi&linkId=67596bff138b414414d594db&showFulltext=true)
+[PDF](https://www.researchgate.net/publication/386778035_Multivariate_Poisson_intensity_estimation_via_low-rank_tensor_decomposition?channel=doi&linkId=67596bff138b414414d594db&showFulltext=true). 2024
 
-**Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, Yik Lun Kei, Zhi Zhang, Yanzhen Chen. Confidence Interval Construction and Conditional Variance Estimation with Dense ReLU Networks. [PDF](https://arxiv.org/abs/2412.20355) **Under Review.**
+**Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, Yik Lun Kei, Zhi Zhang, Yanzhen Chen. Confidence Interval Construction and Conditional Variance Estimation with Dense ReLU Networks. [PDF](https://arxiv.org/abs/2412.20355) **Under Review.** 2025
 
-**Carlos-Misael Madrid-Padilla**, Shitao Fan and Lizhen Lin. Robust and Scalable Variational Bayes. **Under review.** 2025. [PDF]()
+**Carlos-Misael Madrid-Padilla**, Shitao Fan and Lizhen Lin. Robust and Scalable Variational Bayes. 
+[PDF](https://github.com/cmadridp/cmadridp.github.io/blob/main/Robust_and_Scalable_Variational_Bayes_arxiv.pdf) **Under review.** 2025. 
 
 **Carlos-Misael Madrid-Padilla** and O.H.  Madrid-Padilla. Distributional regression via Neural Networks. **In Progress. 2024+.**
 
