@@ -47,7 +47,7 @@ H. Xu, **Carlos-Misael Madrid-Padilla**, O.H. Madrid-Padilla, D. Wang. Multivari
 **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, Yik Lun Kei, Zhi Zhang, Yanzhen Chen. Confidence Interval Construction and Conditional Variance Estimation with Dense ReLU Networks. [PDF](https://arxiv.org/abs/2412.20355) **Under Review.** 2025.
 
 **Carlos-Misael Madrid-Padilla**, Shitao Fan and Lizhen Lin. Robust and Scalable Variational Bayes. 
-[PDF](https://github.com/cmadridp/cmadridp.github.io/blob/main/Robust_and_Scalable_Variational_Bayes_arxiv.pdf) **Under review.** 2025. .
+[PDF](https://github.com/cmadridp/cmadridp.github.io/blob/main/Robust_and_Scalable_Variational_Bayes_arxiv.pdf) **Under review.** 2025. 
 
 **Carlos-Misael Madrid-Padilla** and O.H.  Madrid-Padilla. Distributional regression via Neural Networks. **In Progress. 2025+.**
 
