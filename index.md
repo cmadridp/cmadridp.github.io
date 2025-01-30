@@ -1,7 +1,7 @@
 <meta name="google-site-verification" content="HwE8GtAGc5Vocm8UpWFOap0NUxa0K_akofiL_kuR15M" />
 ## Welcome!
 
-I am a Tenure-track Assistant Professor in the [Department of Statistics and Data Science at Washington University in St. Louis](https://sds.wustl.edu/). I earned a Ph.D. in Mathematics at the [Department of Mathematics at the University of Notre Dame](https://math.nd.edu/) under the supervision of [Dr. Daren Wang](https://darenwang.github.io/website/) and [Dr. Lizhen Lin](https://www3.nd.edu/~llin4/). During the first two years of my Ph.D. I received a Master's degree in Mathematics under the supervision of [Dr. Alex Himonas](https://math.nd.edu/people/faculty/alex-himonas/).
+I am a Tenure-track Assistant Professor in the [Department of Statistics and Data Science at Washington University in St. Louis](https://sds.wustl.edu/). I earned a Ph.D. in Mathematics at the [Department of Mathematics at the University of Notre Dame](https://math.nd.edu/) under the supervision of [Dr. Daren Wang](https://darenwang.github.io/website/). During the first two years of my Ph.D. I received a Master's degree in Mathematics under the supervision of [Dr. Alex Himonas](https://math.nd.edu/people/faculty/alex-himonas/).
 
 My undergraduate degree was a B.S. in Mathematics completed at [CIMAT](https://www.cimat.mx/en) (in Mexico) in May 2019, advised by [Dr. Víctor M. Pérez Abreu C.](https://www.cimat.mx/~pabreu/) and [Dr. Mario Diaz](https://www.mariodiaztorres.com/). 
 
