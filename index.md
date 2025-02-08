@@ -49,8 +49,9 @@ H. Xu, **Carlos-Misael Madrid-Padilla**, O.H. Madrid-Padilla, D. Wang. Multivari
 **Carlos-Misael Madrid-Padilla**, Shitao Fan and Lizhen Lin. Robust and Scalable Variational Bayes. 
 [PDF](https://github.com/cmadridp/cmadridp.github.io/blob/main/Robust_and_Scalable_Variational_Bayes_arxiv.pdf) **Under review.** 2025. 
 
-**Carlos-Misael Madrid-Padilla** and O.H.  Madrid-Padilla. Distributional regression via Neural Networks. **In Progress. 2025+.**
+**Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, and Sabyasachi Chatterjee. Risk Bounds For Distributional Regression. 
+[PDF](https://github.com/cmadridp/cmadridp.github.io/blob/main/Arxiv-Distributional_Regression.pdf) **Under review.** 2025. 
 
-**Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla and  Sabyasachi Chatterjee. Distributional regression: Trend Filtering and beyond. **In Progress. 2025+.**
+
 
 
