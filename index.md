@@ -57,8 +57,6 @@ My  research interests include:
 
 <h3 style="color:#3b5bcc;">Published / Accepted Papers</h3>
 
-### Published/Accepted papers
-
 **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, Sabyasachi Chatterjee. Risk Bounds For Distributional Regression. 
 [PDF](https://arxiv.org/abs/2505.09075) **NeurIPS 2025.** 
 
@@ -74,7 +72,7 @@ Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical 
 **Journal of Mathematical Physics, 62, 111503**. 2021. (selected as Editors’ Pick)        
 
 
-### Preprints
+<h3 style="color:#d18b00;">Preprints</h3>
 
 **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid-Padilla, Daren Wang. Temporal-spatial model via Trend Filtering. 
 [PDF](https://arxiv.org/pdf/2308.16172) **Under Review.** 2024.
@@ -105,6 +103,77 @@ Shivam Kumar, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Yuehaw Khoo, Oscar H
 
 
 
+<h3 style="color:#2f8f6f;">Working Papers</h3>
+
+<div style="color:#355f53;">
+
+<p>
+[1] <strong>Carlos-Misael Madrid-Padilla</strong>, Shitao Fan, Yun Yang, and Lizhen Lin.<br>
+<em>ELBO Empirical Bayes.</em><br>
+<strong>In Progress.</strong> 2025+.
+</p>
+
+<p>
+[2] Zhi Zhang, Kyle Richter, <strong>Carlos-Misael Madrid-Padilla</strong>, and Oscar Hernan Madrid Padilla.<br>
+<em>Risk Bounds for Quantile Temporal-Spatial Analysis.</em><br>
+<strong>In Progress.</strong> 2025+.
+</p>
+
+<p>
+[3] Fan Wang, Yik Lun Kei, <strong>Carlos-Misael Madrid-Padilla</strong>, Xin Ma, and Oscar Hernan Madrid Padilla.<br>
+<em>Multilayer Change Point Detection for Brain Data.</em><br>
+<strong>In Progress.</strong> 2025+.
+</p>
+
+<p>
+[4] <strong>Carlos-Misael Madrid-Padilla</strong>.<br>
+<em>Regularized Estimation under High-Dimensional Covariates and Treatment Effects.</em><br>
+<strong>In Progress.</strong> 2025+.
+</p>
+
+<p>
+[5] <strong>Carlos-Misael Madrid-Padilla</strong> and David Dunson.<br>
+<em>Inferring Latent Structure in Ecological Communities via Neural Networks.</em><br>
+<strong>In Progress.</strong> 2025+.
+</p>
+
+<p>
+[6] <strong>Carlos-Misael Madrid-Padilla</strong>.<br>
+<em>Kernel-Based Offline Change-Point Detection for Conditional Distributions.</em><br>
+<strong>In Progress.</strong> 2025+.
+</p>
+
+<p>
+[7] Shourjo Chakraborty and <strong>Carlos-Misael Madrid-Padilla</strong>.<br>
+<em>Distributional Regression: Change Point Detection and Neural Networks.</em><br>
+<strong>In Progress.</strong> 2025+.
+</p>
+
+<p>
+[8] <strong>Carlos-Misael Madrid-Padilla</strong> and Sangwon Hyun.<br>
+<em>Change Point Detection in the Temporal Dynamics of Ocean Plankton Species.</em><br>
+<strong>In Progress.</strong> 2025+.
+</p>
+
+<p>
+[9] Weichen Kang and <strong>Carlos-Misael Madrid-Padilla</strong>.<br>
+<em>A Unified Framework for Offline Change Point Detection in Distributional Regression.</em><br>
+<strong>In Progress.</strong> 2025+.
+</p>
+
+<p>
+[10] Davis Berlind, Junpeng Ren, Oscar Hernan Madrid Padilla, <strong>Carlos-Misael Madrid-Padilla</strong>.<br>
+<em>Heterogeneous Distributional Treatment Effect Estimation with Noncrossing ReLU Neural Networks.</em><br>
+<strong>In Progress.</strong> 2025+.
+</p>
+
+<p>
+[11] Junpeng Ren, Oscar Hernan Madrid Padilla, <strong>Carlos-Misael Madrid-Padilla</strong>.<br>
+<em>Transfer Learning in Nonparametric Regression with Deep ReLU Networks.</em><br>
+<strong>In Progress.</strong> 2025+.
+</p>
+
+</div>
 
 
 ### Working Papers
