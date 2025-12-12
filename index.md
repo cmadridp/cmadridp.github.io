@@ -41,7 +41,7 @@ Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical 
 **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid-Padilla, Daren Wang. Temporal-spatial model via Trend Filtering. 
 [PDF](https://arxiv.org/pdf/2308.16172) **Under Review.** 2024.
 
-**Carlos-Misael Madrid-Padilla**, Zhi Zhang, Oscar Hernan Madrid-Padilla, Xiaokai Luo, Daren Wang. Dense ReLU Neural Networks for Temporal-spatial Mode.
+**Carlos-Misael Madrid-Padilla**, Zhi Zhang, Oscar Hernan Madrid-Padilla, Xiaokai Luo, Daren Wang. Dense ReLU Neural Networks for Temporal-spatial Model.
 [PDF](https://arxiv.org/pdf/2411.09961) **Under Review.** 2025.
 
 H. Xu, **Carlos-Misael Madrid-Padilla**, O.H. Madrid-Padilla, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. 
@@ -53,11 +53,15 @@ H. Xu, **Carlos-Misael Madrid-Padilla**, O.H. Madrid-Padilla, D. Wang. Multivari
 **Carlos-Misael Madrid-Padilla**, Shitao Fan, Lizhen Lin. Robust and Scalable Variational Bayes. 
 [PDF](https://arxiv.org/abs/2504.12528) **Under review.** 2025. 
 
-Oscar Hernan Madrid Padilla, Yanzhen Chen, **Carlos-Misael Madrid-Padilla**, Gabriel Ruiz. A causal fused lasso for interpretable heterogeneous treatment effects estimation
+Oscar Hernan Madrid Padilla, Yanzhen Chen, **Carlos-Misael Madrid-Padilla**, Gabriel Ruiz. A causal fused lasso for interpretable heterogeneous treatment effects estimation.
 [PDF](https://arxiv.org/abs/2110.00901) **Under review.** 2025. 
+
+Shitao Fan, **Carlos-Misael Madrid-Padilla**, Yun Yang, Lizhen Lin. Amortized Structural Variational Inference. 
+[PDF](https://github.com/cmadridp/cmadridp.github.io/blob/main/Amortized_Structured_Variational_Inference.pdf) **Under review.** 2025. 
 
 Shivam Kumar, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Yuehaw Khoo, Oscar Hernan Madrid Padilla, Daren Wang. Bias-variance Tradeoff in Tensor Estimation. 
 [PDF](https://arxiv.org/pdf/2509.17382?) **Under review.** 2025. 
+
 
 
 
