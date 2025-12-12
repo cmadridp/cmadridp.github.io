@@ -2,12 +2,13 @@
 ## Welcome!
 <table style="width:100%; border:none;">
   <tr>
-    <td style="vertical-align: top; padding-right: 28px; width: 280px;">
+    <td style="vertical-align: top; padding-right: 32px; width: 360px;">
       <img src="assets/img/carlos.jpg"
            alt="Carlos-Misael Madrid-Padilla"
            style="
-             width: 260px;
-             height: 260px;
+             width: 320px !important;
+             height: 320px !important;
+             max-width: none !important;
              border-radius: 50%;
              object-fit: cover;
              display: block;
@@ -38,8 +39,6 @@
     </td>
   </tr>
 </table>
-
-
 
 
 
