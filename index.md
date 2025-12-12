@@ -1,17 +1,19 @@
 <meta name="google-site-verification" content="HwE8GtAGc5Vocm8UpWFOap0NUxa0K_akofiL_kuR15M" />
 ## Welcome!
 
-<table style="width: 100%; border: none;">
+<table style="width: 100%; border: none; table-layout: fixed;">
   <tr>
-    <td style="width: 260px; vertical-align: middle; padding-right: 25px;">
+    <!-- Image column (fixed width) -->
+    <td style="width: 280px; vertical-align: middle; padding-right: 30px;">
       <img src="assets/img/carlos.jpg"
            alt="Carlos-Misael Madrid-Padilla"
-           width="240"
+           width="260"
            style="border-radius: 6px;">
     </td>
 
-    <td style="vertical-align: middle;">
-      <p>
+    <!-- Text column (takes remaining width) -->
+    <td style="vertical-align: middle; width: calc(100% - 280px);">
+      <p style="max-width: 720px;">
         I am a Tenure-track Assistant Professor in the
         <a href="https://sds.wustl.edu/">Department of Statistics and Data Science at Washington University in St. Louis</a>.
         I earned a Ph.D. in Mathematics at the
@@ -23,7 +25,7 @@
         <a href="https://math.nd.edu/people/faculty/alex-himonas/">Dr. Alex Himonas</a>.
       </p>
 
-      <p>
+      <p style="max-width: 720px;">
         My undergraduate degree was a B.S. in Mathematics completed at
         <a href="https://www.cimat.mx/en">CIMAT</a> (Mexico) in May 2019,
         advised by
@@ -34,6 +36,7 @@
     </td>
   </tr>
 </table>
+
 
 
 I am a Tenure-track Assistant Professor in the [Department of Statistics and Data Science at Washington University in St. Louis](https://sds.wustl.edu/). I earned a Ph.D. in Mathematics at the [Department of Mathematics at the University of Notre Dame](https://math.nd.edu/) under the supervision of [Dr. Daren Wang](https://darenwang.github.io/website/). During the first two years of my Ph.D. I received a Master's degree in Mathematics under the supervision of [Dr. Alex Himonas](https://math.nd.edu/people/faculty/alex-himonas/).
