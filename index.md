@@ -1,6 +1,6 @@
 <meta name="google-site-verification" content="HwE8GtAGc5Vocm8UpWFOap0NUxa0K_akofiL_kuR15M" />
 
-<div style="max-width: 1400px; margin: auto; padding: 0 20px;">
+
 ## Welcome!
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
