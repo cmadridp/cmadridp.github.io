@@ -41,7 +41,7 @@ Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical 
 **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid-Padilla, Daren Wang. Temporal-spatial model via Trend Filtering. 
 [PDF](https://arxiv.org/pdf/2308.16172) **Under Review.** 2024.
 
-Zhi Zhang, **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid-Padilla, Xiaokai Luo, Daren Wang. Dense ReLU Neural Networks for Temporal-spatial Mode.
+**Carlos-Misael Madrid-Padilla**, Zhi Zhang, Oscar Hernan Madrid-Padilla, Xiaokai Luo, Daren Wang. Dense ReLU Neural Networks for Temporal-spatial Mode.
 [PDF](https://arxiv.org/pdf/2411.09961) **Under Review.** 2025.
 
 H. Xu, **Carlos-Misael Madrid-Padilla**, O.H. Madrid-Padilla, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. 
