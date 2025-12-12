@@ -1,26 +1,16 @@
 <meta name="google-site-verification" content="HwE8GtAGc5Vocm8UpWFOap0NUxa0K_akofiL_kuR15M" />
 ## Welcome!
-<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="assets/img/carlos.jpg"
-       alt="Carlos-Misael Madrid-Padilla"
-       width="220"
-       style="border-radius: 50%; flex-shrink: 0;">
+<img src="assets/img/carlos.jpg"
+     alt="Carlos-Misael Madrid-Padilla"
+     width="220"
+     style="border-radius: 50%; float: left; margin: 0 20px 15px 0;">
 
-  <div>
-    I am a Tenure-track Assistant Professor in the
-    <a href="https://sds.wustl.edu/">Department of Statistics and Data Science at Washington University in St. Louis</a>.
-    I earned a Ph.D. in Mathematics at the
-    <a href="https://math.nd.edu/">Department of Mathematics at the University of Notre Dame</a>
-    under the supervision of
-    <a href="https://darenwang.github.io/website/">Dr. Daren Wang</a>.
-    During the first two years of my Ph.D. I received a Master's degree in Mathematics
-    under the supervision of
-    <a href="https://math.nd.edu/people/faculty/alex-himonas/">Dr. Alex Himonas</a>.
-  </div>
+I am a Tenure-track Assistant Professor in the [Department of Statistics and Data Science at Washington University in St. Louis](https://sds.wustl.edu/). I earned a Ph.D. in Mathematics at the [Department of Mathematics at the University of Notre Dame](https://math.nd.edu/) under the supervision of [Dr. Daren Wang](https://darenwang.github.io/website/). During the first two years of my Ph.D. I received a Master's degree in Mathematics under the supervision of [Dr. Alex Himonas](https://math.nd.edu/people/faculty/alex-himonas/).
 
-</div>
+My undergraduate degree was a B.S. in Mathematics completed at [CIMAT](https://www.cimat.mx/en) (in Mexico) in May 2019, advised by [Dr. Víctor M. Pérez Abreu C.](https://www.cimat.mx/~pabreu/) and [Dr. Mario Diaz](https://www.mariodiaztorres.com/).
 
+<div style="clear: both;"></div>
 
 
 I am a Tenure-track Assistant Professor in the [Department of Statistics and Data Science at Washington University in St. Louis](https://sds.wustl.edu/). I earned a Ph.D. in Mathematics at the [Department of Mathematics at the University of Notre Dame](https://math.nd.edu/) under the supervision of [Dr. Daren Wang](https://darenwang.github.io/website/). During the first two years of my Ph.D. I received a Master's degree in Mathematics under the supervision of [Dr. Alex Himonas](https://math.nd.edu/people/faculty/alex-himonas/).
