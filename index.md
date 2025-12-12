@@ -62,6 +62,57 @@ Shitao Fan, **Carlos-Misael Madrid-Padilla**, Yun Yang, Lizhen Lin. Amortized St
 Shivam Kumar, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Yuehaw Khoo, Oscar Hernan Madrid Padilla, Daren Wang. Bias-variance Tradeoff in Tensor Estimation. 
 [PDF](https://arxiv.org/pdf/2509.17382?) **Under review.** 2025. 
 
+**Carlos-Misael Madrid-Padilla**. A Unified Framework for Online Change Point Detection in Nonparametric Regression. **Under Review.** 2025.
+
+
+## Working Papers
+
+[1] **Carlos-Misael Madrid-Padilla**, Shitao Fan, Yun Yang, and Lizhen Lin.  
+*ELBO Empirical Bayes.*  
+**In Progress.** 2025+.
+
+[2] Zhi Zhang, Kyle Richter, **Carlos-Misael Madrid-Padilla**, and Oscar Hernan Madrid Padilla.  
+*Risk Bounds for Quantile Temporal-Spatial Analysis.*  
+**In Progress.** 2025+.
+
+[3] Fan Wang, Yik Lun Kei, **Carlos-Misael Madrid-Padilla**, Xin Ma, and Oscar Hernan Madrid Padilla.  
+*Multilayer Change Point Detection for Brain Data.*  
+**In Progress.** 2025+.
+
+[4] **Carlos-Misael Madrid-Padilla**.  
+*Regularized Estimation under High-Dimensional Covariates and Treatment Effects.*  
+**In Progress.** 2025+.
+
+[5] **Carlos-Misael Madrid-Padilla** and David Dunson.  
+*Inferring Latent Structure in Ecological Communities via Neural Networks.*  
+**In Progress.** 2025+.
+
+[6] **Carlos-Misael Madrid-Padilla**.  
+*Kernel-Based Offline Change-Point Detection for Conditional Distributions.*  
+**In Progress.** 2025+.
+
+[7] Shourjo Chakraborty and **Carlos-Misael Madrid-Padilla**.  
+*Distributional Regression: Change Point Detection and Neural Networks.*  
+**In Progress.** 2025+.
+
+[8] **Carlos-Misael Madrid-Padilla** and Sangwon Hyun.  
+*Change Point Detection in the Temporal Dynamics of Ocean Plankton Species.*  
+**In Progress.** 2025+.
+
+[9] Weichen Kang and **Carlos-Misael Madrid-Padilla**.  
+*A Unified Framework for Offline Change Point Detection in Distributional Regression.*  
+**In Progress.** 2025+.
+
+[10] Davis Berlind, Junpeng Ren, and **Carlos-Misael Madrid-Padilla**.  
+*Heterogeneous Distributional Treatment Effect Estimation with Noncrossing ReLU Neural Networks.*  
+**In Progress.** 2025+.
+
+[11] Junpeng Ren and **Carlos-Misael Madrid-Padilla**.  
+*Transfer Learning in Nonparametric Regression with Deep ReLU Networks.*  
+**In Progress.** 2025+.
+
+
+
 
 
 
