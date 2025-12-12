@@ -3,9 +3,9 @@
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <img src="assets/img/carlos.jpg"
-       alt="Carlos-Misael Madrid-Padilla"
-       width="220"
-       style="border-radius: 50%; flex-shrink: 0;">
+     alt="Carlos-Misael Madrid-Padilla"
+     width="220"
+     style="border-radius: 50%; flex-shrink: 0; margin-top: 10px;">
 
   <div>
 
