@@ -138,11 +138,11 @@ Shivam Kumar, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Yuehaw Khoo, Oscar H
 *A Unified Framework for Offline Change Point Detection in Distributional Regression.*  
 **In Progress.** 2025+.
 
-[10] Davis Berlind, Junpeng Ren, and **Carlos-Misael Madrid-Padilla**.  
+[10] Davis Berlind, Junpeng Ren, Oscar Hernan Madrid Padilla, **Carlos-Misael Madrid-Padilla**.  
 *Heterogeneous Distributional Treatment Effect Estimation with Noncrossing ReLU Neural Networks.*  
 **In Progress.** 2025+.
 
-[11] Junpeng Ren and **Carlos-Misael Madrid-Padilla**.  
+[11] Junpeng Ren, Oscar Hernan Madrid Padilla, **Carlos-Misael Madrid-Padilla**.  
 *Transfer Learning in Nonparametric Regression with Deep ReLU Networks.*  
 **In Progress.** 2025+.
 
