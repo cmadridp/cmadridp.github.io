@@ -21,7 +21,7 @@ My  research interests include:
 
 ### Published/Accepted papers
 
-**Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, and Sabyasachi Chatterjee. Risk Bounds For Distributional Regression. 
+**Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, Sabyasachi Chatterjee. Risk Bounds For Distributional Regression. 
 [PDF](https://arxiv.org/abs/2505.09075) **NeurIPS 2025.** 
 
 **Carlos-Misael Madrid-Padilla**, H. Xu, D. Wang, O.H.  Madrid-Padilla, Y. Yu. Change point detection and inference in multivariable
@@ -47,13 +47,19 @@ Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical 
 H. Xu, **Carlos-Misael Madrid-Padilla**, O.H. Madrid-Padilla, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. 
 [PDF](https://arxiv.org/abs/2504.15879). **Under Review.** 2025.
 
-**Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, Yik Lun Kei, Zhi Zhang, Yanzhen Chen. Confidence Interval Construction and Conditional Variance Estimation with Dense ReLU Networks. [PDF](https://arxiv.org/abs/2412.20355) **Under Review.** 2025.
+**Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, Yik Lun Kei, Zhi Zhang, Yanzhen Chen. Confidence Interval Construction and Conditional Variance Estimation with Dense ReLU Networks.
+[PDF](https://arxiv.org/abs/2412.20355) **Under Review.** 2025.
 
-**Carlos-Misael Madrid-Padilla**, Shitao Fan and Lizhen Lin. Robust and Scalable Variational Bayes. 
+**Carlos-Misael Madrid-Padilla**, Shitao Fan, Lizhen Lin. Robust and Scalable Variational Bayes. 
 [PDF](https://arxiv.org/abs/2504.12528) **Under review.** 2025. 
 
-Shivam Kumar, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Yuehaw Khoo, Oscar Hernan Madrid Padilla, and Daren Wang, Bias-variance Tradeoff in Tensor Estimation. 
+Oscar Hernan Madrid Padilla, Yanzhen Chen, **Carlos-Misael Madrid-Padilla**, Gabriel Ruiz. A causal fused lasso for interpretable heterogeneous treatment effects estimation
+[PDF](https://arxiv.org/abs/2110.00901) **Under review.** 2025. 
+
+Shivam Kumar, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Yuehaw Khoo, Oscar Hernan Madrid Padilla, Daren Wang. Bias-variance Tradeoff in Tensor Estimation. 
 [PDF](https://arxiv.org/pdf/2509.17382?) **Under review.** 2025. 
+
+
 
 
 
