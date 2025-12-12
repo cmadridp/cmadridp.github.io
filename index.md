@@ -55,14 +55,7 @@ My  research interests include:
 - Causal inference
 - Bayes methodology
 
-<div style="
-  background-color: #f5f8ff;
-  border-left: 4px solid #3b5bcc;
-  padding: 15px 20px;
-  margin-bottom: 25px;
-">
-
-<h3 style="margin-top: 0;">Published / Accepted Papers</h3>
+### Published/Accepted papers
 
 **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, Sabyasachi Chatterjee. Risk Bounds For Distributional Regression. 
 [PDF](https://arxiv.org/abs/2505.09075) **NeurIPS 2025.** 
