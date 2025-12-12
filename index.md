@@ -21,6 +21,9 @@ My  research interests include:
 
 ### Published/Accepted papers
 
+**Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, and Sabyasachi Chatterjee. Risk Bounds For Distributional Regression. 
+[PDF](https://arxiv.org/abs/2505.09075) **Under review.** 2025. 
+
 **Carlos-Misael Madrid-Padilla**, H. Xu, D. Wang, O.H.  Madrid-Padilla, Y. Yu. Change point detection and inference in multivariable
 nonparametric models under mixing conditions.
 [PDF](https://arxiv.org/pdf/2301.11491.pdf). **NeurIPS 2023.**
@@ -49,8 +52,7 @@ H. Xu, **Carlos-Misael Madrid-Padilla**, O.H. Madrid-Padilla, D. Wang. Multivari
 **Carlos-Misael Madrid-Padilla**, Shitao Fan and Lizhen Lin. Robust and Scalable Variational Bayes. 
 [PDF](https://github.com/cmadridp/cmadridp.github.io/blob/main/Robust_and_Scalable_Variational_Bayes_arxiv.pdf) **Under review.** 2025. 
 
-**Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, and Sabyasachi Chatterjee. Risk Bounds For Distributional Regression. 
-[PDF](https://github.com/cmadridp/cmadridp.github.io/blob/main/Arxiv-Distributional_Regression.pdf) **Under review.** 2025. 
+
 
 
 
