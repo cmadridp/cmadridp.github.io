@@ -41,7 +41,7 @@
 
 
 
-A copy of my CV  can be found [here](https://github.com/cmadridp/cmadridp.github.io/blob/main/cv_carlos_madrid.pdf).
+A copy of my CV  can be found [here](https://github.com/cmadridp/cmadridp.github.io/blob/main/CV.pdf).
 
 I was  born  and raised in Honduras.
 
