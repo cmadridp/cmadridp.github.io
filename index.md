@@ -1,13 +1,21 @@
 <meta name="google-site-verification" content="HwE8GtAGc5Vocm8UpWFOap0NUxa0K_akofiL_kuR15M" />
 ## Welcome!
-
-<table>
+<table style="width:100%; border:none;">
   <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <img src="assets/img/carlos.jpg" width="220" style="border-radius: 50%;" alt="Carlos-Misael Madrid-Padilla">
+    <td style="vertical-align: top; padding-right: 28px; width: 280px;">
+      <img src="assets/img/carlos.jpg"
+           alt="Carlos-Misael Madrid-Padilla"
+           style="
+             width: 260px;
+             height: 260px;
+             border-radius: 50%;
+             object-fit: cover;
+             display: block;
+           ">
     </td>
+
     <td style="vertical-align: top;">
-      <p>
+      <p style="margin-top: 0;">
         I am a Tenure-track Assistant Professor in the
         <a href="https://sds.wustl.edu/">Department of Statistics and Data Science at Washington University in St. Louis</a>.
         I earned a Ph.D. in Mathematics at the
@@ -18,6 +26,7 @@
         under the supervision of
         <a href="https://math.nd.edu/people/faculty/alex-himonas/">Dr. Alex Himonas</a>.
       </p>
+
       <p>
         My undergraduate degree was a B.S. in Mathematics completed at
         <a href="https://www.cimat.mx/en">CIMAT</a> (Mexico) in May 2019,
@@ -29,6 +38,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
