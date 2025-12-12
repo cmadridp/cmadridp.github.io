@@ -55,7 +55,14 @@ My  research interests include:
 - Causal inference
 - Bayes methodology
 
-### Published/Accepted papers
+<div style="
+  background-color: #f5f8ff;
+  border-left: 4px solid #3b5bcc;
+  padding: 15px 20px;
+  margin-bottom: 25px;
+">
+
+<h3 style="margin-top: 0;">Published / Accepted Papers</h3>
 
 **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, Sabyasachi Chatterjee. Risk Bounds For Distributional Regression. 
 [PDF](https://arxiv.org/abs/2505.09075) **NeurIPS 2025.** 
@@ -101,7 +108,7 @@ Shivam Kumar, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Yuehaw Khoo, Oscar H
 **Carlos-Misael Madrid-Padilla**. A Unified Framework for Online Change Point Detection in Nonparametric Regression. **Under Review.** 2025.
 
 
-## Working Papers
+### Working Papers
 
 [1] **Carlos-Misael Madrid-Padilla**, Shitao Fan, Yun Yang, and Lizhen Lin.  
 *ELBO Empirical Bayes.*  
