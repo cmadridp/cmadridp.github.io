@@ -29,7 +29,7 @@
       advised by
       <a href="https://www.cimat.mx/~pabreu/">Dr. Víctor M. Pérez Abreu C.</a>
       and
-      <a href="https://www.mariodiaztorres.com/">Dr. Mario Díaz</a>.
+      <a href="https://iimas.unam.mx/inmemoriam/semblanza/sem-engv2.1.pdf">Dr. Mario Díaz</a>.
     </p>
 
   </div>
