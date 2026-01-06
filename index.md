@@ -58,14 +58,14 @@ My  research interests include:
 <h3 style="color:#3b5bcc;">Published / Accepted Papers</h3>
 
 **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, Sabyasachi Chatterjee. Risk Bounds For Distributional Regression. 
-[PDF](https://arxiv.org/abs/2505.09075) **NeurIPS 2025.** 
+[PDF](https://arxiv.org/abs/2505.09075) **NeurIPS 2025.** [Code](https://github.com/cmadridp/UnifDR).
 
 **Carlos-Misael Madrid-Padilla**, H. Xu, D. Wang, O.H.  Madrid-Padilla, Y. Yu. Change point detection and inference in multivariable
 nonparametric models under mixing conditions.
-[PDF](https://papers.nips.cc/paper_files/paper/2023/hash/42a0de6b8a1809ceba8fdad1661be06c-Abstract-Conference.html). **NeurIPS 2023.**
+[PDF](https://papers.nips.cc/paper_files/paper/2023/hash/42a0de6b8a1809ceba8fdad1661be06c-Abstract-Conference.html). **NeurIPS 2023.** [Code](https://github.com/HaotianXu/changepoints).
 
 **Carlos-Misael Madrid-Padilla**, Daren Wang, Zifeng Zhao, Yi Yu. Change-point detection for sparse and dense functional data in general dimensions. 
-[PDF](https://neurips.cc/virtual/2022/poster/54744). **NeurlPs 2022** 
+[PDF](https://neurips.cc/virtual/2022/poster/54744). **NeurlPs 2022** [Code](https://github.com/cmadridp/FSBS).
 
 Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical order). The Neumann and Robin problems for the Korteweg-de Vries equation on the half-line. 
 [PDF](https://pubs.aip.org/aip/jmp/article-abstract/62/11/111503/234125/The-Neumann-and-Robin-problems-for-the-Korteweg-de?redirectedFrom=fulltext)  
@@ -75,32 +75,30 @@ Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical 
 <h3 style="color:#d18b00;">Preprints</h3>
 
 **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid-Padilla, Daren Wang. Temporal-spatial model via Trend Filtering. 
-[PDF](https://arxiv.org/pdf/2308.16172) **Under Review.** 2024.
+[PDF](https://arxiv.org/pdf/2308.16172) **Under Review.** 2024. [Code](https://github.com/cmadridp/K-NN-FL).
 
 **Carlos-Misael Madrid-Padilla**, Zhi Zhang, Oscar Hernan Madrid-Padilla, Xiaokai Luo, Daren Wang. Dense ReLU Neural Networks for Temporal-spatial Model.
-[PDF](https://arxiv.org/pdf/2411.09961) **Under Review.** 2025.
+[PDF](https://arxiv.org/pdf/2411.09961) **Under Review.** 2025. 
 
 H. Xu, **Carlos-Misael Madrid-Padilla**, O.H. Madrid-Padilla, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. 
-[PDF](https://arxiv.org/abs/2504.15879). **Under Review.** 2025.
+[PDF](https://arxiv.org/abs/2504.15879). **Under Review.** 2025. [Code](https://github.com/cmadridp/IntensityMat-Ten).
 
 **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, Yik Lun Kei, Zhi Zhang, Yanzhen Chen. Confidence Interval Construction and Conditional Variance Estimation with Dense ReLU Networks.
-[PDF](https://arxiv.org/abs/2412.20355) **Under Review.** 2025.
+[PDF](https://arxiv.org/abs/2412.20355) **Under Review.** 2025. [Code](https://github.com/allenkei/Var_ReLU/blob/main/var_relu.py).
 
 **Carlos-Misael Madrid-Padilla**, Shitao Fan, Lizhen Lin. Robust and Scalable Variational Bayes. 
-[PDF](https://arxiv.org/abs/2504.12528) **Under review.** 2025. 
+[PDF](https://arxiv.org/abs/2504.12528) **Under review.** 2025. [Code](https://github.com/waterism211/Robust-and-Scalable-Variational-Bayes-Code). 
 
 Oscar Hernan Madrid Padilla, Yanzhen Chen, **Carlos-Misael Madrid-Padilla**, Gabriel Ruiz. A causal fused lasso for interpretable heterogeneous treatment effects estimation.
 [PDF](https://arxiv.org/abs/2110.00901) **Under review.** 2025. 
 
 Shitao Fan, **Carlos-Misael Madrid-Padilla**, Yun Yang, Lizhen Lin. Amortized Structural Variational Inference. 
-[PDF](https://github.com/cmadridp/cmadridp.github.io/blob/main/Amortized_Structured_Variational_Inference.pdf) **Under review.** 2025. 
+[PDF](https://github.com/cmadridp/cmadridp.github.io/blob/main/Amortized_Structured_Variational_Inference.pdf) **Under review.** 2025. [Code](https://github.com/waterism211/Amortized-Structured-Variational-Inference). 
 
 Shivam Kumar, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Yuehaw Khoo, Oscar Hernan Madrid Padilla, Daren Wang. Bias-variance Tradeoff in Tensor Estimation. 
 [PDF](https://arxiv.org/pdf/2509.17382?) **Under review.** 2025. 
 
 **Carlos-Misael Madrid-Padilla**. A Unified Framework for Online Change Point Detection in Nonparametric Regression. **Under Review.** 2025.
-
-
 
 
 <h3 style="color:#2f8f6f;">Working Papers</h3>
