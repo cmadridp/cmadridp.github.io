@@ -98,6 +98,11 @@ Shitao Fan, **Carlos-Misael Madrid-Padilla**, Yun Yang, Lizhen Lin. Amortized St
 Shivam Kumar, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Yuehaw Khoo, Oscar Hernan Madrid Padilla, Daren Wang. Bias-variance Tradeoff in Tensor Estimation. 
 [PDF](https://arxiv.org/pdf/2509.17382?) **Under review.** 2025. 
 
+
+Xiaokai Luo, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla.
+Online Change Point Detection for Multivariate Inhomogeneous Poisson Processes Time Series.
+[PDF](https://arxiv.org/pdf/2601.20192) **Under review.** 2026. 
+
 **Carlos-Misael Madrid-Padilla**. A Unified Framework for Online Change Point Detection in Nonparametric Regression. **Under Review.** 2025.
 
 
