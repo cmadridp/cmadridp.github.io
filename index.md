@@ -80,7 +80,7 @@ Xiaokai Luo, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid P
 Online Change Point Detection for Multivariate Inhomogeneous Poisson Processes Time Series.
 [PDF](https://arxiv.org/pdf/2601.20192) **To appear in International Conference on Machine Learning (ICML)** 2026. 
 
-Junpeng Ren, **Carlos-Misael Madrid-Padilla**,, Yanzhen Chen, Oscar Hernan Madrid Padilla.
+Junpeng Ren, **Carlos-Misael Madrid-Padilla**, Yanzhen Chen, Oscar Hernan Madrid Padilla.
 Transfer Learning in Nonparametric Regression with Deep ReLU Networks. **To appear in International Conference on Machine Learning (ICML)** 2026. 
 
 <h3 style="color:#d18b00;">Preprints</h3>
