@@ -69,8 +69,12 @@ nonparametric models under mixing conditions.
 
 Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical order). The Neumann and Robin problems for the Korteweg-de Vries equation on the half-line. 
 [PDF](https://pubs.aip.org/aip/jmp/article-abstract/62/11/111503/234125/The-Neumann-and-Robin-problems-for-the-Korteweg-de?redirectedFrom=fulltext)  
-**Journal of Mathematical Physics, 62, 111503**. 2021. (selected as Editors’ Pick)        
+**Journal of Mathematical Physics, 62, 111503**. 2021. (selected as Editors’ Pick)       
 
+Oscar Hernan Madrid Padilla, Yanzhen Chen, **Carlos-Misael Madrid-Padilla**, Gabriel Ruiz. A causal fused lasso for interpretable heterogeneous treatment effects estimation. **Journal of Machine Learning Research, 27(40):1−56, 2026**. [PDF](https://www.jmlr.org/papers/volume27/23-0535/23-0535.pdf). (Second and third authors contributed equally).
+
+Shitao Fan, **Carlos-Misael Madrid-Padilla**, Yun Yang, Lizhen Lin. Amortized Structural Variational Inference. 
+ **29th International Conference on Artificial Intelligence and Statistics (AISTATS), 2026**. [PDF](https://github.com/cmadridp/cmadridp.github.io/blob/main/Amortized_Structured_Variational_Inference.pdf). [Code](https://github.com/waterism211/Amortized-Structured-Variational-Inference). 
 
 <h3 style="color:#d18b00;">Preprints</h3>
 
@@ -89,15 +93,8 @@ H. Xu, **Carlos-Misael Madrid-Padilla**, O.H. Madrid-Padilla, D. Wang. Multivari
 **Carlos-Misael Madrid-Padilla**, Shitao Fan, Lizhen Lin. Robust and Scalable Variational Bayes. 
 [PDF](https://arxiv.org/abs/2504.12528) **Under review.** 2025. [Code](https://github.com/waterism211/Robust-and-Scalable-Variational-Bayes-Code). 
 
-Oscar Hernan Madrid Padilla, Yanzhen Chen, **Carlos-Misael Madrid-Padilla**, Gabriel Ruiz. A causal fused lasso for interpretable heterogeneous treatment effects estimation.
-[PDF](https://arxiv.org/abs/2110.00901) **Under review.** 2025. 
-
-Shitao Fan, **Carlos-Misael Madrid-Padilla**, Yun Yang, Lizhen Lin. Amortized Structural Variational Inference. 
-[PDF](https://github.com/cmadridp/cmadridp.github.io/blob/main/Amortized_Structured_Variational_Inference.pdf) **Under review.** 2025. [Code](https://github.com/waterism211/Amortized-Structured-Variational-Inference). 
-
 Shivam Kumar, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Yuehaw Khoo, Oscar Hernan Madrid Padilla, Daren Wang. Bias-variance Tradeoff in Tensor Estimation. 
 [PDF](https://arxiv.org/pdf/2509.17382?) **Under review.** 2025. 
-
 
 Xiaokai Luo, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla.
 Online Change Point Detection for Multivariate Inhomogeneous Poisson Processes Time Series.
