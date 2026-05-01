@@ -57,6 +57,20 @@ My  research interests include:
 
 <h3 style="color:#3b5bcc;">Published / Accepted Papers</h3>
 
+
+Xiaokai Luo, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla.
+Online Change Point Detection for Multivariate Inhomogeneous Poisson Processes Time Series.
+[PDF](https://arxiv.org/pdf/2601.20192) **To appear in International Conference on Machine Learning (ICML)** 2026. 
+
+Junpeng Ren, **Carlos-Misael Madrid-Padilla**, Yanzhen Chen, Oscar Hernan Madrid Padilla.
+Transfer Learning in Nonparametric Regression with Deep ReLU Networks. **To appear in International Conference on Machine Learning (ICML)** 2026. 
+
+Shitao Fan, **Carlos-Misael Madrid-Padilla**, Yun Yang, Lizhen Lin. Amortized Structural Variational Inference. 
+  [PDF](https://github.com/cmadridp/cmadridp.github.io/blob/main/Amortized_Structured_Variational_Inference.pdf). **29th International Conference on Artificial Intelligence and Statistics (AISTATS), 2026**. [Code](https://github.com/waterism211/Amortized-Structured-Variational-Inference). 
+
+Oscar Hernan Madrid Padilla, Yanzhen Chen, **Carlos-Misael Madrid-Padilla**, Gabriel Ruiz. A causal fused lasso for interpretable heterogeneous treatment effects estimation. [PDF](https://www.jmlr.org/papers/volume27/23-0535/23-0535.pdf). (Second and third authors contributed equally). **Journal of Machine Learning Research, 27(40):1−56, 2026**. [Code](https://github.com/hernanmp/causal_fused_lasso). 
+
+
 **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla, Sabyasachi Chatterjee. Risk Bounds For Distributional Regression. 
 [PDF](https://arxiv.org/abs/2505.09075) **NeurIPS 2025.** [Code](https://github.com/cmadridp/UnifDR).
 
@@ -70,18 +84,6 @@ nonparametric models under mixing conditions.
 Alexandrou Himonas, **Carlos-Misael Madrid-Padilla**, Fangchi Yan (alphabetical order). The Neumann and Robin problems for the Korteweg-de Vries equation on the half-line. 
 [PDF](https://pubs.aip.org/aip/jmp/article-abstract/62/11/111503/234125/The-Neumann-and-Robin-problems-for-the-Korteweg-de?redirectedFrom=fulltext)  
 **Journal of Mathematical Physics, 62, 111503**. 2021. (selected as Editors’ Pick)       
-
-Oscar Hernan Madrid Padilla, Yanzhen Chen, **Carlos-Misael Madrid-Padilla**, Gabriel Ruiz. A causal fused lasso for interpretable heterogeneous treatment effects estimation. [PDF](https://www.jmlr.org/papers/volume27/23-0535/23-0535.pdf). (Second and third authors contributed equally). **Journal of Machine Learning Research, 27(40):1−56, 2026**. [Code](https://github.com/hernanmp/causal_fused_lasso). 
-
-Shitao Fan, **Carlos-Misael Madrid-Padilla**, Yun Yang, Lizhen Lin. Amortized Structural Variational Inference. 
-  [PDF](https://github.com/cmadridp/cmadridp.github.io/blob/main/Amortized_Structured_Variational_Inference.pdf). **29th International Conference on Artificial Intelligence and Statistics (AISTATS), 2026**. [Code](https://github.com/waterism211/Amortized-Structured-Variational-Inference). 
-
-Xiaokai Luo, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla.
-Online Change Point Detection for Multivariate Inhomogeneous Poisson Processes Time Series.
-[PDF](https://arxiv.org/pdf/2601.20192) **To appear in International Conference on Machine Learning (ICML)** 2026. 
-
-Junpeng Ren, **Carlos-Misael Madrid-Padilla**, Yanzhen Chen, Oscar Hernan Madrid Padilla.
-Transfer Learning in Nonparametric Regression with Deep ReLU Networks. **To appear in International Conference on Machine Learning (ICML)** 2026. 
 
 <h3 style="color:#d18b00;">Preprints</h3>
 
