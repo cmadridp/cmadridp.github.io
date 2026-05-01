@@ -76,6 +76,13 @@ Oscar Hernan Madrid Padilla, Yanzhen Chen, **Carlos-Misael Madrid-Padilla**, Gab
 Shitao Fan, **Carlos-Misael Madrid-Padilla**, Yun Yang, Lizhen Lin. Amortized Structural Variational Inference. 
   [PDF](https://github.com/cmadridp/cmadridp.github.io/blob/main/Amortized_Structured_Variational_Inference.pdf). **29th International Conference on Artificial Intelligence and Statistics (AISTATS), 2026**. [Code](https://github.com/waterism211/Amortized-Structured-Variational-Inference). 
 
+Xiaokai Luo, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla.
+Online Change Point Detection for Multivariate Inhomogeneous Poisson Processes Time Series.
+[PDF](https://arxiv.org/pdf/2601.20192) **To appear in International Conference on Machine Learning (ICML)** 2026. 
+
+Junpeng Ren, **Carlos-Misael Madrid-Padilla**,, Yanzhen Chen, Oscar Hernan Madrid Padilla.
+Transfer Learning in Nonparametric Regression with Deep ReLU Networks. **To appear in International Conference on Machine Learning (ICML)** 2026. 
+
 <h3 style="color:#d18b00;">Preprints</h3>
 
 **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid-Padilla, Daren Wang. Temporal-spatial model via Trend Filtering. 
@@ -95,10 +102,6 @@ H. Xu, **Carlos-Misael Madrid-Padilla**, O.H. Madrid-Padilla, D. Wang. Multivari
 
 Shivam Kumar, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Yuehaw Khoo, Oscar Hernan Madrid Padilla, Daren Wang. Bias-variance Tradeoff in Tensor Estimation. 
 [PDF](https://arxiv.org/pdf/2509.17382?) **Under review.** 2025. 
-
-Xiaokai Luo, Haotian Xu, **Carlos-Misael Madrid-Padilla**, Oscar Hernan Madrid Padilla.
-Online Change Point Detection for Multivariate Inhomogeneous Poisson Processes Time Series.
-[PDF](https://arxiv.org/pdf/2601.20192) **Under review.** 2026. 
 
 **Carlos-Misael Madrid-Padilla**. A Unified Framework for Online Change Point Detection in Nonparametric Regression. **Under Review.** 2025.
 
@@ -167,11 +170,6 @@ Online Change Point Detection for Multivariate Inhomogeneous Poisson Processes T
 <strong>In Progress.</strong> 2025+.
 </p>
 
-<p>
-[11] Junpeng Ren, Oscar Hernan Madrid Padilla, <strong>Carlos-Misael Madrid-Padilla</strong>.<br>
-<em>Transfer Learning in Nonparametric Regression with Deep ReLU Networks.</em><br>
-<strong>In Progress.</strong> 2025+.
-</p>
 
 </div>
 
